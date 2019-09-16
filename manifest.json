@@ -1,0 +1,66 @@
+{
+  "name": "Maxoke",
+  "short_name": "Maxoke",
+  "start_url": "https://www.maxoke.com/?home=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0057e7",
+  "description": "Bisnis Online, Teknologi dan Tutorial",
+  "icons": [ {
+    "src": "https://1.bp.blogspot.com/-yw9FCiggZyY/XQG8F20kGbI/AAAAAAAAAx4/plR7UzbY0y4Y030ZrGMvdjqwfZwhSWxCwCLcBGAs/s32/favicon-32x32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  },{
+    "src": "https://1.bp.blogspot.com/-TZqGXTP6oD4/XQHA3ZvcseI/AAAAAAAAA0A/bFch__bJCoUd7r-7bzsJwNR5mNxs7RIowCLcBGAs/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-EG3nEjdneHA/XQG9WvRU0zI/AAAAAAAAAys/g-wI5YBeJY0L_bMeuoNxi6YzgPl6225sQCEwYBhgL/s57/apple-icon-57x57.png",
+    "sizes": "57x57",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-mRY6sySgdZw/XQG9XQZ2mmI/AAAAAAAAAyw/-iLynZH5z1AwJm1XD-jbJHP1D0zj8KzKgCEwYBhgL/s60/apple-icon-60x60.png",
+    "sizes": "60x60",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-CMG2XGfZiZI/XQHA3xFw7iI/AAAAAAAAA0E/0TqNq0Gh_pY0iCcWI4WQV6bT3Mwvx0OrACLcBGAs/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lTv29M261sk/XQG9Xxj4lbI/AAAAAAAAAy4/LPSe50gKApclmRzwycdeuh-VuZ49SHtHgCEwYBhgL/s76/apple-icon-76x76.png",
+    "sizes": "76x76",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-C7mZ8FbqxzQ/XQHA3z7GRwI/AAAAAAAAA0I/AiypBIkGz_sl0HjiT_LqiWKpgtmblRGQwCLcBGAs/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-3wN5fu9OA3k/XQG9VGbT3cI/AAAAAAAAAyg/MUd7og7FvFweqNKW6i1O0afZIq4W2VaLwCEwYBhgL/s120/apple-icon-120x120.png",
+    "sizes": "120x120",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--4bJb5KEdig/XQHA2pHNmyI/AAAAAAAAAz4/lxiNguot2LkIGlOI0i0KHIeTvXNzBHudwCLcBGAs/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i4xNg7OWftw/XQG9WWj-9lI/AAAAAAAAAyk/rFFmi_lN1Yo6qSG_IDhxW1TQ9NfRrzF7QCEwYBhgL/s152/apple-icon-152x152.png",
+    "sizes": "152x152",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-raA9Cio1ZCI/XR55UqXm78I/AAAAAAAABHI/Lgc98RXyWqcPXiLbWOI185kCc7faYrG5QCLcBGAs/s168/maxok.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7eEwc5ywCdA/XQG9WqWjJbI/AAAAAAAAAyo/gloXEe3H58MEC96uB0zEgDcE3d2SKrpOwCEwYBhgL/s180/apple-icon-180x180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ypHXWbhyC4o/XQHA2kkgoTI/AAAAAAAAAz8/jnff7MB9EHwIWEQzpmYbB_jCogjZiss6wCLcBGAs/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NVUTHowpdeY/XR55N8UoKII/AAAAAAAABHE/VZXDugOJGKoanuBQqKXP3g-NOoOh6_QAACLcBGAs/s512/maxoke.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
